@@ -2,8 +2,8 @@
 
 layout: home
 ---
-<img src="tux.jpg" alt="drawing" width="200"/>
+<img src="tux.jpg" alt="drawing" width="300"/>
 
 Email:\
-Something:\
+Phone:\
 Something:
